@@ -5,7 +5,7 @@ const socials = [
   { label: 'GitHub', href: 'https://github.com/Avisrivastava15', Icon: GithubIcon },
   { label: 'LinkedIn', href: 'https://www.linkedin.com/in/avi-srivastava1508/', Icon: LinkedInIcon },
   { label: 'LeetCode', href: 'https://leetcode.com/u/avisri546/', Icon: LeetCodeIcon },
-  { label: 'GFG', href: 'https://www.geeksforgeeks.org/profile/avisrivastava15', Icon: GFGIcon },
+  { label: 'GFG', href: 'https://www.geeksforgeeks.org/profile/avisrivastava15?tab=activity', Icon: GFGIcon },
 ];
 
 export default function Footer() {
