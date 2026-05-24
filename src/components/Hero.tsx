@@ -10,7 +10,7 @@ const socials = [
   { label: 'GitHub', href: 'https://github.com/Avisrivastava15', Icon: GithubIcon, color: 'hover:text-white' },
   { label: 'LinkedIn', href: 'https://www.linkedin.com/in/avi-srivastava1508/', Icon: LinkedInIcon, color: 'hover:text-sky-400' },
   { label: 'LeetCode', href: 'https://leetcode.com/u/avisri546/', Icon: LeetCodeIcon, color: 'hover:text-orange-400' },
-  { label: 'GFG', href: 'https://www.geeksforgeeks.org/profile/avisrivastava15', Icon: GFGIcon, color: 'hover:text-green-400' },
+  { label: 'GFG', href: 'https://www.geeksforgeeks.org/profile/avisrivastava15?tab=activity', Icon: GFGIcon, color: 'hover:text-green-400' },
 ];
 
 export default function Hero() {
