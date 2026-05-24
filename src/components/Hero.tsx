@@ -1,7 +1,6 @@
 import { useEffect, useState } from 'react';
 import { ArrowDown, Download } from 'lucide-react';
 import { GithubIcon, LinkedInIcon, LeetCodeIcon, GFGIcon } from './icons/SocialIcons';
-import { GrResume } from 'react-icons/gr';
 import Resume from '../assets/Resume.pdf'
 
 const roles = ['Full Stack Developer', 'Problem Solver', 'Open Source Enthusiast', 'CS Graduate'];
